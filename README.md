@@ -1,5 +1,5 @@
 # golang_life
-Basic demonstration golang implementing Game of Life 
+Basic demonstration golang implementing [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 
 ## Architecture
